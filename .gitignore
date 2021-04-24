@@ -8,6 +8,7 @@
 /.ipynb_checkpoints/
 #
 *.csv
+*.xlsx
 *.h5
 *.dat
 *.tmp
