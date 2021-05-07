@@ -1,7 +1,7 @@
 # Timeseries Forecasting
 
 ### Goal
-•	In this project I tried to predict December 2019 sales using the historical daily sales data (From January 2017 to December 2019).  
+•	In this project I tried to predict December 2019 sales of a specific product using the historical daily sales data (From January 2017 to December 2019).  
  
 ### Description
 * There are two separate script files, one for the ARMA model (Autoregressive - moving average) and the other for the various machine learning algorithms. 
