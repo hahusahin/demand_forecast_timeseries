@@ -24,6 +24,10 @@
 * Tried various machine learning models and decided to use Random Forest model based on the RMSE score of them.
 * Then I trained the model again but this time with the whole dataset (to predict the December sales)
 
+### Project Files
+* arima_model.ipynb - Project Notebook developed using ARIMA model
+* machine_learning_model.ipynb - Project Notebook developed using Machine learning models
+* dataset.xlsx - Dataset
 
 ### Libraries Used
 *	numpy, pandas
